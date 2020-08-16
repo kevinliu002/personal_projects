@@ -32,7 +32,7 @@ This was my capstone project completed at the end of my first year at the Univer
 I built a 2D game using a tile engine where the player must escape a maze within a certain number of moves.
 Source code avalible on GitHub, all rights reserved.
 
-### Scheme Intepretor: Completed 2018
+### Scheme Intepretor: Completed 2018 [Python]
 Built a intepreter for the Scheme programming language using Python. Source code avalible
 upon request. 
 
