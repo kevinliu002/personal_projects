@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spark-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/twilio-7.49.1-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

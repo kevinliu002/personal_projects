@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7753463d-f803-472b-8492-1d0ee1a0f36a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Escape_from_Dwinelle/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/Messages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/RandomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/UnionFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/master.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/Core/txtFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/InputDemo/DemoInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/InputDemo/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/InputDemo/RandomInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/InputDemo/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/SaveDemo/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/SaveDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/SaveDemo/Shepherd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/SaveDemo/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/SaveDemo/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/TileEngine/TERenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/TileEngine/TETile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/TileEngine/Tileset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/lab12/BoringWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/lab12/HexWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/lab12/RandomWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/lab12/project3prep.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape_from_Dwinelle/byow/lab13/MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetWeather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SendMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SendMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WebApp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gCBmV8HMo3ST1KKnOztk5Y92wM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="weather_alerter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7753463d-f803-472b-8492-1d0ee1a0f36a" name="Default Changelist" comment="" />
+      <created>1597608852529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597608852529</updated>
+      <workItem from="1597608855784" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

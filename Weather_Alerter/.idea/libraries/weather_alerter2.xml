@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weather_alerter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/weather_alerter_jar/weather_alerter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

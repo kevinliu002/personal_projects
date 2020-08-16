@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="weather_alerter1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/weather_alerter/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/weather_alerter/spark-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/weather_alerter/twilio-7.49.1-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
