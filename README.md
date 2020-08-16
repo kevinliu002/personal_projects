@@ -23,6 +23,11 @@ Below you will find selected work that I have done the the computer science and 
 ### Stock Sentiment Analysis: In Progress [Python]
 Developing a program that will mine news articles and provide live sentiment analysis on various securities for investor insight.
 Source code avalible on GitHub
+
+### Average Pariwise Distance Minimzer: Completed 2020 [Python]
+A theory, algorithms, based project where I optimized the average pairwise distance of a graph
+given where certain condtions are met.
+
 ### Weather Alert: Completed 2019 [Java]
 Using the Twilo API, OpenWeather API, and Maps api, a user can set custom weather alerts and recieve notfications
 when adverse or unusual weather is predicted in the forcast. Source code availible on GitHub.
