@@ -10,24 +10,24 @@ Below you will find selected work I have in the data science domain.
 ### Spam/Not Spam E-mail Classifier: Completed 2020
 Using a logistic regression model, I was able to correctly classify emails up to 93% of the time
 when looking at the email body, length, and language style. You may view the JupyterNotebook
-for my methodology and report.
+for my methodology and report. 
+Source code avalible on GitHub, All rights Reserved.
 
 ### COVID-19 Modeling: Complated 2020
 An investigative techical research project that endeavor to model the number of deaths across the contenental United States
 during the 2019-2020 novel coronavirus outbreak. Several models and factors were investigated, and our research determined that population density is the singular largest factor associated with coronavirus related deaths. You may view the JupyterNotebook for the full technical report and expermentation process.
-
+Source code avalible on GitHub
 ## Computer Science & SWE Related Projects:
 Below you will find selected work that I have done the the computer science and software engineering domain.
 
-### Weather Alert: In Progress
+### Stock Sentiment Analysis: In Progress [Python]
+Developing a program that will mine news articles and provide live sentiment analysis on various securities for investor insight.
+Source code avalible on GitHub
+### Weather Alert: Completed 2019 [Java]
 Using the Twilo API, OpenWeather API, and Maps api, a user can set custom weather alerts and recieve notfications
 when adverse or unusual weather is predicted in the forcast. Source code availible on GitHub.
 
-### Job Aggregator: In Progress
-Aggregate all open positions for a specific job within a specific location and aggregate them into 
-an excel spreadsheet. 
-
-### Escape from Dwinelle: Completed 2019
+### Escape from Dwinelle: Completed 2019 [Java]
 This was my capstone project completed at the end of my first year at the University of California Berkeley.
 I built a 2D game using a tile engine where the player must escape a maze within a certain number of moves.
 Source code avalible on GitHub, all rights reserved.
