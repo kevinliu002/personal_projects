@@ -1,7 +1,20 @@
-# CS 170 Project Spring 2020
+# Pairwise Distance Minimizer Theory Based Project
+
+This was the capstone project completed during UC Berkeley's algorithms course. 
+
+## Premise
+Formally, let G= (V,E) be a positive weighted, connected, undirected graph.  We would like to find a subgraph T ofG such that:
+1. Every vertexv ∈ Vis either in T or adjacent to a vertex in T
+2. T is a tree
+3. The average pairwise distance between all vertices in T is minimized.
 
 
 
+## Approach
+We used a combined approach of leaf (node) prunning and Prim's algorithm. 
+Please see the reflection for more details on the technical approach.
+
+## Installation & Requirements
 The files needed for the project are below.
 
 Required Files:
@@ -19,7 +32,7 @@ The requirements are below:
 -If using pip to download, run python3 -m pip install networkx
 - Sys, os, operator, random, and copy
 
-Running program:
+## Running the Program
 - Simply run ##python3 solver.py## to generate outputs. Note that print statements may occur. You may comment them out
 for a cleaner view.
 - Some outputs *may* (namely medium-111.in) be invalid or blank. We manually added 0 to those files.
